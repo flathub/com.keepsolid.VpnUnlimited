@@ -32,6 +32,6 @@ modules:
 
     sources:
       - type: archive
-        url: https://flatpak-releases.vpnunlimited.com/vpn-unlimited-9.7.0/vpn-unlimited-9.7.0-x86_64-flathub.tar.gz
-        sha256: 665ba716c2d49768fdd9437ef788ff083cd5d8c2362f7347d0e9d1ffb1e6a4cc
+        url: https://flatpak-releases.vpnunlimited.com/vpn-unlimited-9.7.2/vpn-unlimited-9.7.2-x86_64-flathub.tar.gz
+        sha256: 059d23620f95c7b4373f70d1e2e53c4c0a18664035e16192ffa54ac0c486dcaa
         strip-components: 0
